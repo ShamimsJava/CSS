@@ -1,0 +1,34 @@
+CSS Property Reference
+
+1.	width: 500px; 50%;
+2.	height: 500px;
+3.	margin: 5px auto;
+4.	border: 5px;
+5.	padding: 5px;
+6.	border-radius: 5%;
+7.	background: red;
+8.	background-color: red;
+9.	background-image: url(“image.jpg”);
+10.	background-repeat: no-repeat; repeat-x;
+11.	background-attachment: fixed;
+12.	background-position: 30% 30%;
+13.	background-size: 100px 60px;
+14.	opacity: 5%;
+15.	color: red;
+16.	box-shadow: 10px 10px 5px black;
+17.	float: left; right;
+18.	position: static; absolute; fixed; relative;
+19.	display: none; inline; block;
+20.	overflow: scroll; hidden;
+21.	letter-spacing: 2px;
+22.	word-spacing: 30px;
+23.	line-height: 70%;
+24.	text-align: left; right; center; justify;
+25.	text-indent: 50px; 
+26.	text-transform: uppercase; lowercase; capitalize;
+27.	text-decoration: overline; line-through; underline; 
+28.	text-shadow: 2px 2px red;
+29.	font: 15px arial italic bold; 
+30.	list-style: none; square (“sqpurple.gif”);
+31.	list-style-position: inside; outside;
+32.	list-style-type: circle; square; upper-roman; lower-alpha;
